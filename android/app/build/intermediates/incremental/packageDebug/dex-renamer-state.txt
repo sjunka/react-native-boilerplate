@@ -1,0 +1,4 @@
+#Tue Jul 24 22:59:49 COT 2018
+base.0=/home/junka/Desktop/create-react-native-app/my-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/junka/Desktop/create-react-native-app/my-app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
